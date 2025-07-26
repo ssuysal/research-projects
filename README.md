@@ -1,4 +1,4 @@
-# Project Portfolio – Sebnem Sera Uysal
+# Research Projects – Sebnem Sera Uysal
 
 > A curated collection of applied economics projects focused on causal inference, machine learning, public policy, and corporate taxation.  
 > Authored by Sebnem Sera Uysal – M.Sc. Economics, Ludwig Maximilian University of Munich.
