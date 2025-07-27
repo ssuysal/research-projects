@@ -120,27 +120,6 @@ This repository presents selected empirical research and data analysis projects 
 
 [Private Repository](https://github.com/ssuysal/digital-currencies-in-the-international-monetary-system) – [Request Access](mailto:sserasahinli@gmail.com?subject=Access%20Request%20-%20Digital%20Currencies%20Repository)
 
----
-
-## Technical Skills Demonstrated
-
-**Programming & Tools**  
-- R (Advanced): Causal inference, machine learning, panel regressions  
-- Python (Intermediate): NLP, scraping, data processing  
-- Stata (Intermediate): Policy evaluation, fixed effects models
-
-**Methodologies**  
-- Causal inference: DiD, CEM, AIPW, Causal Forests  
-- Machine learning: Random Forests, Lasso, Neural Networks  
-- Text analytics: Topic modeling, clustering, regression analysis  
-- Policy evaluation: Staggered reforms, natural experiments  
-- Econometrics: Panel data, treatment heterogeneity, effect estimation
-
-**Research Areas**  
-- Corporate taxation and profit shifting  
-- Labor economics and inequality  
-- Public finance and fiscal federalism  
-- Digital currencies and international monetary policy
 
 ---
 
