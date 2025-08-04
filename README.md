@@ -47,7 +47,7 @@ This repository presents selected empirical research and data analysis projects 
 
 **Key findings**: Significant heterogeneous treatment effects were identified across subgroups using robust causal inference methods.
 
-[Private Repository](https://github.com/ssuysal/ml-in-econometrics) – [Request Access](mailto:sserasahinli@gmail.com?subject=Access%20Request%20-%20ML%20Econometrics%20Repository)
+[Public Repository](https://github.com/ssuysal/ml-in-econometrics)
 
 ---
 
@@ -70,7 +70,7 @@ This repository presents selected empirical research and data analysis projects 
 
 **Key findings**: Transparency laws led to notable wage gains for Black workers, especially Black women, and significantly reduced racial wage gaps.
 
-[Private Repository](https://github.com/ssuysal/empirical-topics-in-domestic-public-finance) – [Request Access](mailto:sserasahinli@gmail.com?subject=Access%20Request%20-%20Public%20Finance%20Repository)
+[Public Repository](https://github.com/ssuysal/empirical-topics-in-domestic-public-finance)
 
 ---
 
@@ -95,7 +95,7 @@ This repository presents selected empirical research and data analysis projects 
 
 **Key findings**: Topics linked to salient public issues were positively correlated with vote shares, highlighting the electoral value of thematic focus in political messaging.
 
-[Private Repository](https://github.com/ssuysal/data-analytics) – [Request Access](mailto:sserasahinli@gmail.com?subject=Access%20Request%20-%20Data%20Analytics%20Repository)
+[Public Repository](https://github.com/ssuysal/data-analytics)
 
 ---
 
