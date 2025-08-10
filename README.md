@@ -1,9 +1,19 @@
-# Research Projects – Sebnem Sera Uysal
+# Portfolio – Sebnem Sera Uysal, M.Sc. Economics (LMU)
 
-> A curated collection of applied economics projects focused on causal inference, machine learning, public policy, and corporate taxation.  
+> A selection of applied data analytics projects demonstrating expertise in data cleaning, transformation, statistical modelling, and deriving actionable insights for policy and business contexts.
+> 
+> Tools: R, Python, SQL | Focus Areas: Econometrics, Causal Inference, Business & Policy Analytics
+> 
 > Authored by Sebnem Sera Uysal – M.Sc. Economics, Ludwig Maximilian University of Munich.
 
 This repository presents selected empirical research and data analysis projects conducted during my Master of Science in Economics at Ludwig Maximilian University of Munich. The portfolio reflects my training in applied econometrics, policy evaluation, and data science using R and Python.
+
+This portfolio showcases end-to-end projects involving data extraction, preparation, and analysis, as well as the communication of actionable insights through visualizations and reports. 
+
+Each project includes:
+- **Context & Objective** – the problem or question addressed
+- **Methods & Tools** – statistical techniques, programming languages, tools, and platforms used
+- **Deliverables & Insights** – final results and key takeaways
 
 ---
 
@@ -16,9 +26,9 @@ This repository presents selected empirical research and data analysis projects 
 
 **Methodology**:
 - Difference-in-Differences (DiD) with Coarsened Exact Matching (CEM)
-- Panel data analysis using firm-level ORBIS data (2014–2022)
+- Panel data analysis using firm-level ORBIS & ORBIS Historical data (2014–2022)
 
-**Software & tools**: R
+**Software & tools**: R, SQL
 
 **Key findings**: Patent box regimes were associated with increased profit shifting, particularly among firms with historical patent ownership.
 
@@ -42,7 +52,7 @@ This repository presents selected empirical research and data analysis projects 
 
 **Highlights**:
 - Propensity score diagnostics and variable importance plots
-- Heterogeneity analysis by quintiles
+- Heterogeneity analysis across subgroups
 - Automated result generation with visual outputs
 
 **Key findings**: Significant heterogeneous treatment effects were identified across subgroups using robust causal inference methods.
@@ -125,7 +135,7 @@ This repository presents selected empirical research and data analysis projects 
 
 ## Contact
 
-Feel free to reach out if you're interested in accessing code or discussing research.
+Open to collaborations and roles in data analytics, policy evaluation, or business intelligence.
 
 - Email: sserasahinli@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/sera-uysal](https://www.linkedin.com/in/sera-uysal)  
