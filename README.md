@@ -1,144 +1,87 @@
 # Portfolio – Sebnem Sera Uysal, M.Sc. Economics (LMU)
 
-> A selection of applied data analytics projects demonstrating expertise in data cleaning, transformation, statistical modelling, and deriving actionable insights for policy and business contexts.
-> 
-> Tools: R, Python, SQL | Focus Areas: Econometrics, Causal Inference, Business & Policy Analytics
-> 
-> Authored by Sebnem Sera Uysal – M.Sc. Economics, Ludwig Maximilian University of Munich.
+> Applied data analytics portfolio highlighting expertise in data extraction, cleaning, transformation, statistical modelling, and generating actionable insights for policy and business contexts.  
+> **Tools:** R, Python, SQL | **Focus Areas:** Econometrics, Causal Inference, Business & Policy Analytics  
 
-This repository presents selected empirical research and data analysis projects conducted during my Master of Science in Economics at Ludwig Maximilian University of Munich. The portfolio reflects my training in applied econometrics, policy evaluation, and data science using R and Python.
+---
 
-This portfolio showcases end-to-end projects involving data extraction, preparation, and analysis, as well as the communication of actionable insights through visualizations and reports. 
+## Core Competencies
+- **Data Retrieval & Processing:** SQL batch queries, data cleaning, harmonisation, merging, reproducible R pipelines  
+- **Statistical Modelling:** Panel data econometrics, Difference-in-Differences (DiD), Causal Inference methods  
+- **Machine Learning:** Causal Forests, AIPW, Double/Debiased ML, Lasso-penalised GLMs  
+- **Visualization & Reporting:** Publication-ready figures, dashboards, automated report generation  
+- **Domain Knowledge:** International finance, public policy evaluation, labour market economics, taxation  
+
+---
+
+This portfolio contains selected empirical research and data analysis projects completed during my Master of Science in Economics at Ludwig Maximilian University of Munich. Projects demonstrate end-to-end workflows, from data acquisition and preparation to statistical modelling and clear communication of findings via visualizations and reports.
 
 Each project includes:
-- **Context & Objective** – the problem or question addressed
-- **Methods & Tools** – statistical techniques, programming languages, tools, and platforms used
-- **Deliverables & Insights** – final results and key takeaways
+- **Context & Objective** – the research question or business problem
+- **Methods & Tools** – statistical techniques, programming languages, and platforms used
+- **Results & Insights** – key findings and implications
 
 ---
 
 ## Master's Thesis  
-**Title**: *Profit Shifting by Multinational Firms through Intangible Assets: The Role of Patent Boxes*  
-**Institution**: Ludwig Maximilian University of Munich  
-**Grade**: 1.3  
+**Profit Shifting by Multinational Firms through Intangible Assets: The Role of Patent Boxes**  
+*Ludwig Maximilian University of Munich – Grade: 1.3*
 
-**Research focus**: Investigating whether patent box regimes incentivize profit shifting among multinational firms.
+- Analysed firm-level ORBIS & ORBIS Historical data (2014–2022) retrieved via SQL batch queries.  
+- Built a full R-based pipeline for data cleaning, harmonisation, merging, modelling, and visualisation.  
+- Applied Difference-in-Differences with Coarsened Exact Matching to identify effects.  
+- **Finding:** Patent box regimes were associated with increased profit shifting, especially for firms with historical patent ownership.
 
-**Methodology**:
-- Difference-in-Differences (DiD) with Coarsened Exact Matching (CEM)
-- Panel data analysis using firm-level ORBIS & ORBIS Historical data (2014–2022)
-
-**Software & tools**: R, SQL
-
-**Key findings**: Patent box regimes were associated with increased profit shifting, particularly among firms with historical patent ownership.
-
-[Private Repository](https://github.com/ssuysal/profit-shifting-patent-boxes) – [Request Access](mailto:sserasahinli@gmail.com?subject=Access%20Request%20-%20Master%27s%20Thesis%20Repository)
+[Private Repository](https://github.com/ssuysal/profit-shifting-patent-boxes)
 
 ---
 
 ## Machine Learning in Econometrics  
-**Title**: *Gender Inequality Analysis: Evaluating 2007 U.S. Policy Interventions*  
-**Institution**: Ludwig Maximilian University of Munich  
+**Gender Inequality Analysis: Evaluating 2007 U.S. Policy Interventions**
 
-**Research focus**: Using machine learning techniques for causal inference and policy evaluation on gender wage and employment gaps.
-
-**Methodology**:
-- Causal Forests for heterogeneous treatment effects
-- Augmented Inverse Propensity Weighting (AIPW)
-- Double/Debiased Machine Learning
-- Lasso-penalized GLMs
-
-**Software & tools**: R (grf, glmnet, ranger)
-
-**Highlights**:
-- Propensity score diagnostics and variable importance plots
-- Heterogeneity analysis across subgroups
-- Automated result generation with visual outputs
-
-**Key findings**: Significant heterogeneous treatment effects were identified across subgroups using robust causal inference methods.
+- Applied Causal Forests, Augmented Inverse Propensity Weighting, and Double/Debiased ML methods.  
+- Conducted heterogeneity analysis using Lasso-penalised GLMs.  
+- Automated result generation with reproducible R scripts and visual outputs.  
+- **Finding:** Significant subgroup-specific policy effects were detected.
 
 [Public Repository](https://github.com/ssuysal/ml-in-econometrics)
 
 ---
 
 ## Empirical Public Finance  
-**Title**: *Pay Transparency and Racial Wage Gaps in the U.S. Labor Market*  
-**Institution**: Ludwig Maximilian University of Munich  
+**Pay Transparency and Racial Wage Gaps in the U.S. Labor Market**
 
-**Research focus**: Analyzing the effects of state-level pay transparency legislation on racial wage gaps across five U.S. states.
-
-**Methodology**:
-- Staggered Difference-in-Differences (DiD) design
-- Panel data analysis using CPS microdata (2010–2024)
-
-**Software & tools**: R
-
-**Highlights**:
-- State-level analysis: Maryland, Nevada, Colorado, California, Washington
-- Focus on wage outcomes for Black and White workers
-- Identification strategy accounts for staggered policy timing
-
-**Key findings**: Transparency laws led to notable wage gains for Black workers, especially Black women, and significantly reduced racial wage gaps.
+- Staggered Difference-in-Differences using CPS microdata (2010–2024).  
+- Focused on Maryland, Nevada, Colorado, California, and Washington.  
+- **Finding:** Pay transparency laws reduced racial wage gaps, especially benefiting Black women.
 
 [Public Repository](https://github.com/ssuysal/empirical-topics-in-domestic-public-finance)
 
 ---
 
 ## Data Analytics Project  
-**Title**: *Elections and Speeches: Parliamentary Discourse Analysis in Canada*  
-**Institution**: Ludwig Maximilian University of Munich  
+**Elections and Speeches: Parliamentary Discourse Analysis in Canada**
 
-**Research focus**: Exploring the relationship between speech content and electoral performance among Canadian parliamentarians (1980–2020).
-
-**Methodology**:
-- Web scraping (Python, Selenium)
-- Natural language processing (NLP) and topic modeling
-- K-means clustering
-- Fixed effects regression models
-
-**Software & tools**: Python, R
-
-**Highlights**:
-- Large-scale speech and metadata extraction
-- Topic frequency analysis by party and politician
-- Empirical link between discourse themes and electoral outcomes
-
-**Key findings**: Topics linked to salient public issues were positively correlated with vote shares, highlighting the electoral value of thematic focus in political messaging.
+- Web scraping with Python (Selenium) to collect speeches and metadata (1980–2020).  
+- Topic modelling, clustering, and fixed effects regressions to link themes to electoral outcomes.  
+- **Finding:** Issue-salient topics correlated positively with vote shares.
 
 [Public Repository](https://github.com/ssuysal/data-analytics)
 
 ---
 
 ## Digital Currencies Research  
-**Title**: *Digital Currencies in the International Monetary System*  
+**Digital Currencies in the International Monetary System**
 
-**Research focus**: Examining the implications of digital currencies (crypto-assets, stablecoins, and CBDCs) for international financial stability and monetary sovereignty.
+- Analysed implications of crypto-assets, stablecoins, and CBDCs for monetary policy and financial stability.  
+- Developed a framework for impact channels (monetary, financial, payments) and regulatory needs.  
+- **Finding:** Highlighted the different policy implications of public vs. private digital currencies.
 
-**Methodology**:
-- Comparative policy analysis
-- Impact channel framework (monetary, financial, payments)
-- Case study review and regulatory analysis
-
-**Software & tools**: Policy research and qualitative analysis
-
-**Highlights**:
-- Classification of private vs. public digital currencies
-- Cross-border payments and capital flow considerations
-- International cooperation and governance challenges
-
-**Key findings**: The study outlines regulatory risks and cooperation needs, highlighting the distinction between private digital assets and CBDCs in shaping the future monetary landscape.
-
-[Private Repository](https://github.com/ssuysal/digital-currencies-in-the-international-monetary-system) – [Request Access](mailto:sserasahinli@gmail.com?subject=Access%20Request%20-%20Digital%20Currencies%20Repository)
-
+[Private Repository](https://github.com/ssuysal/digital-currencies-in-the-international-monetary-system)
 
 ---
 
 ## Contact
 
-Open to collaborations and roles in data analytics, policy evaluation, or business intelligence.
-
-- Email: sserasahinli@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/sera-uysal](https://www.linkedin.com/in/sera-uysal)  
-- GitHub: [https://github.com/ssuysal](https://github.com/ssuysal)
-
----
+Email: [sserasahinli@gmail.com](mailto:sserasahinli@gmail.com)  
+LinkedIn: [linkedin.com/in/sera-uysal](https://www.linkedin.com/in/sera-uysal)
